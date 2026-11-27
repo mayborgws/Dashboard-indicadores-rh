@@ -38,6 +38,9 @@ A solução permite visualizar informações sobre colaboradores, admissões, de
 
 O dashboard apresenta gráficos, cartões de indicadores e filtros interativos para facilitar a exploração dos dados, incluindo filtros por ano e demais dimensões disponíveis na base.
 
+<img width="1496" height="837" alt="image" src="https://github.com/user-attachments/assets/d679978b-40ec-4cef-bc1c-173fa7026e91" />
+
+
 ## 📂 Estrutura do projeto
 
 - `Dashboard_Indicadores_RH.pbix`: arquivo do projeto desenvolvido no Power BI.
