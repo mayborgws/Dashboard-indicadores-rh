@@ -69,7 +69,8 @@ dashboard-indicadores-rh/
 ├── Dados/
 │   └── base-rh.xlsx
 │
-├── Dashboard_Indicadores_RH.pbix
+├── Dashboard
+│    └── base-rh.xlsx
 │
 └── README.md
 ```
