@@ -77,7 +77,7 @@ dashboard-indicadores-rh/
 
 ## 📚 Fonte dos dados
 
-Base de dados de Recursos Humanos disponibilizada no Kaggle, utilizada para fins educacionais e de desenvolvimento prático em análise de dados.
+Base de dados de Recursos Humanos obtida no GitHub, com adaptações realizadas para incluir a coluna de Data de Demissão, utilizada para fins educacionais e de desenvolvimento prático em análise de dados.
 
 ## 👩‍💻 Autora
 
