@@ -1,12 +1,10 @@
 # 📊 Dashboard de Indicadores de Recursos Humanos
 
-\<p align="center">
-&#x20; \<img width="1506" height="837" alt="image" src="https://github.com/user-attachments/assets/a7411cc8-639e-4258-b848-771921e7142a" />width="100%">
-\</p>
+<img width="1506" height="837" alt="image" src="https://github.com/user-attachments/assets/526440e5-e5c0-46c2-bed8-de5b6fbcb3ab" />
 
-\<p align="center">
-&#x20; \*\*Análise de Dados | Business Intelligence | Power BI\*\*
-\</p>
+
+*Análise de Dados | Business Intelligence | Power BI\*\*
+
 
 ---
 
