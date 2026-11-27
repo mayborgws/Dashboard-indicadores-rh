@@ -1,27 +1,30 @@
 # 📊 Dashboard de Indicadores de Recursos Humanos
 
-## Sobre o projeto
+\<p align="center">
+&#x20; \<img width="1506" height="837" alt="image" src="https://github.com/user-attachments/assets/a7411cc8-639e-4258-b848-771921e7142a" />width="100%">
+\</p>
 
-Este projeto consiste no desenvolvimento de um dashboard interativo de Recursos Humanos utilizando Power BI, com o objetivo de organizar informações, acompanhar indicadores e facilitar a análise de dados relacionados à gestão de pessoas.
+\<p align="center">
+&#x20; \*\*Análise de Dados | Business Intelligence | Power BI\*\*
+\</p>
 
-A solução permite visualizar informações sobre colaboradores, admissões, desligamentos, cargos, departamentos e rotatividade, auxiliando na identificação de padrões e tendências.
+---
+
+## 📌 Sobre o projeto
+
+Dashboard interativo de Recursos Humanos desenvolvido no Power BI, com o objetivo de organizar informações, acompanhar indicadores e facilitar a análise de dados relacionados à gestão de pessoas.
+
+O projeto apresenta uma visão geral dos colaboradores da organização, permitindo acompanhar admissões, desligamentos, distribuição de cargos, departamentos e indicadores de rotatividade.
 
 ## 🎯 Objetivos
 
-- Monitorar indicadores de Recursos Humanos.
-- Analisar a distribuição de colaboradores por departamento e cargo.
-- Acompanhar admissões e desligamentos.
-- Identificar indicadores de rotatividade (Turnover).
+- Acompanhar indicadores de Recursos Humanos.
+- Analisar a distribuição de colaboradores.
+- Monitorar admissões e desligamentos.
+- Identificar padrões de rotatividade.
 - Facilitar a interpretação dos dados por meio de visualizações interativas.
 
-## 🛠️ Ferramentas utilizadas
-
-- **Power BI:** criação do dashboard e visualização dos dados.
-- **Power Query:** tratamento, limpeza e transformação dos dados.
-- **DAX:** criação de medidas e indicadores.
-- **Kaggle:** obtenção da base de dados utilizada no projeto.
-
-## 📈 Indicadores analisados
+## 📈 Indicadores apresentados
 
 - Total de colaboradores.
 - Colaboradores ativos e inativos.
@@ -34,24 +37,45 @@ A solução permite visualizar informações sobre colaboradores, admissões, de
 - Faixa etária dos colaboradores.
 - Distribuição por gênero.
 
-## 📊 Visualizações
+## 🛠️ Tecnologias utilizadas
 
-O dashboard apresenta gráficos, cartões de indicadores e filtros interativos para facilitar a exploração dos dados, incluindo filtros por ano e demais dimensões disponíveis na base.
+| Ferramenta  | Aplicação                            |
+| ----------- | ------------------------------------ |
+| Power BI    | Criação do dashboard                 |
+| Power Query | Tratamento e transformação dos dados |
+| DAX         | Criação de medidas e indicadores     |
+| Kaggle      | Fonte da base de dados               |
 
-<img width="1496" height="837" alt="image" src="https://github.com/user-attachments/assets/d679978b-40ec-4cef-bc1c-173fa7026e91" />
+## 🔎 Funcionalidades
 
+- Filtros interativos por ano.
+- Análise de colaboradores por status.
+- Visualização de indicadores em cartões.
+- Gráficos de distribuição e comparação.
+- Análise de admissões e desligamentos.
 
-## 📂 Estrutura do projeto
+## 📂 Estrutura do repositório
 
-- `Dashboard_Indicadores_RH.pbix`: arquivo do projeto desenvolvido no Power BI.
-- `Imagens/`: capturas de tela do dashboard.
+```text
+dashboard-indicadores-rh/
+│
+├── Imagens/
+│   └── dashboard-rh.png
+│
+├── Dados/
+│   └── base-rh.xlsx
+│
+├── Dashboard_Indicadores_RH.pbix
+│
+└── README.md
+```
 
 ## 📚 Fonte dos dados
 
-Base de dados pública disponibilizada no Kaggle, utilizada para fins educacionais e de prática em análise de dados.
+Base de dados de Recursos Humanos disponibilizada no Kaggle, utilizada para fins educacionais e de desenvolvimento prático em análise de dados.
 
-## 👩‍💻 Desenvolvido por
+## 👩‍💻 Autora
 
 **Mayara Borges**
 
-Projeto desenvolvido como parte do meu aprendizado em Análise de Dados e Business Intelligence.
+Projeto desenvolvido como parte do aprendizado em Análise de Dados e Business Intelligence.
