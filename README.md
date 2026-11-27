@@ -1,7 +1,7 @@
 # 📊 Dashboard de Indicadores de Recursos Humanos
 
 <p align="center">
-  <img src="Images/dashboard-rh.png" alt="Dashboard de Indicadores de Recursos Humanos" width="100%">
+  <img src="Image/dashboard-rh.png" alt="Dashboard de Indicadores de Recursos Humanos" width="100%">
 </p>
 
 <p align="center">
