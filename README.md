@@ -1,10 +1,12 @@
 # 📊 Dashboard de Indicadores de Recursos Humanos
 
-<img width="1506" height="837" alt="image" src="https://github.com/user-attachments/assets/526440e5-e5c0-46c2-bed8-de5b6fbcb3ab" />
+<p align="center">
+  <img src="Imagens/dashboard-rh.png" alt="Dashboard de Indicadores de Recursos Humanos" width="100%">
+</p>
 
-
-*Análise de Dados | Business Intelligence | Power BI\*\*
-
+<p align="center">
+  **Análise de Dados | Business Intelligence | Power BI**
+</p>
 
 ---
 
@@ -17,7 +19,7 @@ O projeto apresenta uma visão geral dos colaboradores da organização, permiti
 ## 🎯 Objetivos
 
 - Acompanhar indicadores de Recursos Humanos.
-- Analisar a distribuição de colaboradores.
+- Analisar a distribuição de colaboradores por departamento e cargo.
 - Monitorar admissões e desligamentos.
 - Identificar padrões de rotatividade.
 - Facilitar a interpretação dos dados por meio de visualizações interativas.
@@ -25,32 +27,36 @@ O projeto apresenta uma visão geral dos colaboradores da organização, permiti
 ## 📈 Indicadores apresentados
 
 - Total de colaboradores.
+- Total de departamentos.
 - Colaboradores ativos e inativos.
 - Percentual de colaboradores ativos e inativos.
+- Custo mensal com colaboradores ativos.
 - Total de admissões.
 - Total de desligamentos.
-- Taxa de Turnover.
-- Quantidade de cargos.
-- Distribuição por departamento.
+- Taxa de Turnover por departamento.
+- Quantidade e diversidade de cargos.
+- Distribuição de colaboradores por sexo.
 - Faixa etária dos colaboradores.
-- Distribuição por gênero.
+- Média salarial por departamento.
 
 ## 🛠️ Tecnologias utilizadas
 
-| Ferramenta  | Aplicação                            |
-| ----------- | ------------------------------------ |
-| Power BI    | Criação do dashboard                 |
+| Ferramenta | Aplicação |
+|---|---|
+| Power BI | Criação do dashboard |
 | Power Query | Tratamento e transformação dos dados |
-| DAX         | Criação de medidas e indicadores     |
-| Kaggle      | Fonte da base de dados               |
+| DAX | Criação de medidas e indicadores |
+| Kaggle | Fonte da base de dados |
 
 ## 🔎 Funcionalidades
 
-- Filtros interativos por ano.
-- Análise de colaboradores por status.
-- Visualização de indicadores em cartões.
+- Filtro interativo por ano.
+- Filtro por departamento.
+- Pesquisa e exploração dos dados.
+- Cartões com indicadores de desempenho.
 - Gráficos de distribuição e comparação.
 - Análise de admissões e desligamentos.
+- Visualização da distribuição salarial por departamento.
 
 ## 📂 Estrutura do repositório
 
