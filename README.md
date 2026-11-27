@@ -70,7 +70,7 @@ dashboard-indicadores-rh/
 │   └── base-rh.xlsx
 │
 ├── Dashboard
-│    └── base-rh.xlsx
+│    └── Painel de Indicadores de Recursos Humanos.pbix
 │
 └── README.md
 ```
